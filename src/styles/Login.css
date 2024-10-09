@@ -1,0 +1,15 @@
+/* Login.css */
+.login-container {
+    background-color: #f8f9fa;
+  }
+  
+  .login-form {
+    width: 100%;
+    max-width: 400px;
+    background-color: #ffffff;
+  }
+  
+  .login-form h2 {
+    color: #343a40;
+  }
+  

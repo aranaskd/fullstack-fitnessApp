@@ -1,0 +1,30 @@
+/* Home.css */
+.home-container {
+    height: 100vh;
+    background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  }
+  
+  .home-content {
+    max-width: 600px;
+    color: #343a40;
+  }
+  
+  .home-content h1 {
+    font-weight: 700;
+    color: black;
+  }
+  
+  .home-content p {
+    color: #706f6f;
+  }
+  
+  .btn-primary {
+    background-color: #6a11cb;
+    border-color: #6a11cb;
+  }
+  
+  .btn-primary:hover {
+    background-color: #2575fc;
+    border-color: #2575fc;
+  }
+  

@@ -1,0 +1,30 @@
+/* Workout.css */
+.workout-form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #ffffff;
+  }
+  
+  .workout-list {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .list-group-item {
+    transition: all 0.2s ease;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f8f9fa;
+  }
+  
+  .btn-primary {
+    background-color: #6a11cb;
+    border-color: #6a11cb;
+  }
+  
+  .btn-primary:hover {
+    background-color: #2575fc;
+    border-color: #2575fc;
+  }
+  

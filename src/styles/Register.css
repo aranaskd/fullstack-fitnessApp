@@ -1,0 +1,15 @@
+/* Register.css */
+.register-container {
+    background-color: #f8f9fa;
+  }
+  
+  .register-form {
+    width: 100%;
+    max-width: 400px;
+    background-color: #ffffff;
+  }
+  
+  .register-form h2 {
+    color: #343a40;
+  }
+  
